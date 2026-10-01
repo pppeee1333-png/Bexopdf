@@ -11,4 +11,4 @@ reportlab==4.1.0
 
 Telethon==1.43.0
 rarfile==4.2
-py7zr==0.24.1
+py7zr==1.1.3
