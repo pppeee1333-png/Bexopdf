@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+logs/
+temp/
+sessions/
+*.backup
+*.backup_*
+*.before_*
+*_broken.py
